@@ -208,4 +208,9 @@ export const plans: PlanSummary[] = [
     "Pfitzinger/Douglas: Marathon More Than 85 Miles per Week Recovery (third edition)",
     "Marathon",
   ],
+  [
+    "daniels_custom_half",
+    "Jack Daniels' Running Formula Custom Half Marathon Plan",
+    "Half Marathon",
+  ],
 ];

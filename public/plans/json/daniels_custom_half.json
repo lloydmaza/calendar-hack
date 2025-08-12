@@ -1,0 +1,691 @@
+{
+   "id": "daniels_custom_half",
+   "name": "Jack Daniels' Running Formula Custom Half Marathon Plan",
+   "description": "Jack Daniels' Running Formula presents a systematic approach to training based on physiological principles. The core of his methodology revolves around training at specific intensities tied to key physiological markers (Easy, Marathon, Threshold, Interval, and Repetition paces), each calculated using a runner's VDOT \u2014 a measure of running economy and aerobic capacity.",
+   "units": "mi",
+   "source": "https://www.amazon.com/Daniels-Running-Formula-Jack/dp/1718203667/",
+   "type": "Half Marathon",
+   "schedule": [
+      {
+         "description": "Phase I - Week 1 (A)",
+         "workouts": [
+            {
+               "title": "{5} Easy Run",
+               "distance": 5.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{6} Repetition Run - Workout B2",
+               "distance": 6.0,
+               "description": "{1.5} Warm Up\n3 x (200m R + 200m jog + 200m R + 400m jog + 400m R + 200m jog)\n{1.5} Cool Down\n({6})",
+               "tags": [
+                  "Speedwork"
+               ]
+            },
+            {
+               "title": "Rest or Cross-Train",
+               "tags": [
+                  "Rest",
+                  "Cross Train"
+               ]
+            },
+            {
+               "title": "{3} Easy Run",
+               "distance": 3.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{4} Threshold Run",
+               "distance": 4.0,
+               "description": "{1.5} Warm Up\n{1} @ Threshold Pace\n{1.5} Cool Down\n({4})",
+               "tags": [
+                  "Speedwork"
+               ]
+            },
+            {
+               "title": "{4} Easy Run",
+               "distance": 4.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{9} Long Run - Easy Pace",
+               "distance": 9.0,
+               "description": "{9} @ Easy Pace",
+               "tags": [
+                  "Long Run"
+               ]
+            }
+         ]
+      },
+      {
+         "description": "Phase I - Week 2 (B)",
+         "workouts": [
+            {
+               "title": "{5} Easy Run",
+               "distance": 5.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{5} Interval Run - Workout B3",
+               "distance": 5.0,
+               "description": "{1.5} Warm Up\n4 x (4min I + 3min jog)\n{1.5} Cool Down\n({5})",
+               "tags": [
+                  "Speedwork"
+               ]
+            },
+            {
+               "title": "Rest or Cross-Train",
+               "tags": [
+                  "Rest",
+                  "Cross Train"
+               ]
+            },
+            {
+               "title": "{4} Easy Run",
+               "distance": 4.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{5} Threshold Run",
+               "distance": 5.0,
+               "description": "{1.5} Warm Up\n{2} @ Threshold Pace\n{1.5} Cool Down\n({5})",
+               "tags": [
+                  "Speedwork"
+               ]
+            },
+            {
+               "title": "{4} Easy Run",
+               "distance": 4.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{10} Long Run - Marathon Pace",
+               "distance": 10.0,
+               "description": "{5} Warm Up\n{4} @ Marathon Pace\n{1} Cool Down\n({10})",
+               "tags": [
+                  "Long Run"
+               ]
+            }
+         ]
+      },
+      {
+         "description": "Phase I - Week 3 (A)",
+         "workouts": [
+            {
+               "title": "{5} Easy Run",
+               "distance": 5.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{6} Repetition Run - Workout B4",
+               "distance": 6.0,
+               "description": "{1.5} Warm Up\n6 x (400m R + 400m jog)\n{1.5} Cool Down\n({6})",
+               "tags": [
+                  "Speedwork"
+               ]
+            },
+            {
+               "title": "Rest or Cross-Train",
+               "tags": [
+                  "Rest",
+                  "Cross Train"
+               ]
+            },
+            {
+               "title": "{5} Easy Run",
+               "distance": 5.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{6} Threshold Run",
+               "distance": 6.0,
+               "description": "{1.5} Warm Up\n3 x ({1} @ Threshold Pace + 90s jog)\n{1.5} Cool Down\n({6})",
+               "tags": [
+                  "Speedwork"
+               ]
+            },
+            {
+               "title": "{4} Easy Run",
+               "distance": 4.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{10} Long Run - Easy Pace",
+               "distance": 10.0,
+               "description": "{10} @ Easy Pace",
+               "tags": [
+                  "Long Run"
+               ]
+            }
+         ]
+      },
+      {
+         "description": "Phase I - Week 4 (B)",
+         "workouts": [
+            {
+               "title": "{6} Easy Run",
+               "distance": 6.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{6} Interval Run - Workout B4",
+               "distance": 6.0,
+               "description": "{1.5} Warm Up\n6 x (800m I + 2min jog)\n{1.5} Cool Down\n({6})",
+               "tags": [
+                  "Speedwork"
+               ]
+            },
+            {
+               "title": "Rest or Cross-Train",
+               "tags": [
+                  "Rest",
+                  "Cross Train"
+               ]
+            },
+            {
+               "title": "{6} Easy Run",
+               "distance": 6.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{6} Threshold Run",
+               "distance": 6.0,
+               "description": "{1.5} Warm Up\n3 x ({1} @ Threshold Pace + 90s jog)\n{1.5} Cool Down\n({6})",
+               "tags": [
+                  "Speedwork"
+               ]
+            },
+            {
+               "title": "{5} Easy Run",
+               "distance": 5.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{10} Long Run - Marathon Pace",
+               "distance": 10.0,
+               "description": "{4} Warm Up\n{5} @ Marathon Pace\n{1} Cool Down\n({10})",
+               "tags": [
+                  "Long Run"
+               ]
+            }
+         ]
+      },
+      {
+         "description": "Phase II - Week 1 (A)",
+         "workouts": [
+            {
+               "title": "{5} Easy Run",
+               "distance": 5.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{7} Repetition Run - Workout C2",
+               "distance": 7.0,
+               "description": "{1.5} Warm Up\n4 x (200m R + 200m jog) + 4 x (400m R + 400m jog) + 4 x (200m R + 200m jog)\n{1.5} Cool Down\n({7})",
+               "tags": [
+                  "Speedwork"
+               ]
+            },
+            {
+               "title": "Rest or Cross-Train",
+               "tags": [
+                  "Rest",
+                  "Cross Train"
+               ]
+            },
+            {
+               "title": "{6} Easy Run",
+               "distance": 6.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{6} Threshold Run",
+               "distance": 6.0,
+               "description": "{1.5} Warm Up\n{1} @ Threshold Pace + 90s jog\n{2} @ Threshold Pace + 90s jog\n{1.5} Cool Down\n({6})",
+               "tags": [
+                  "Speedwork"
+               ]
+            },
+            {
+               "title": "{6} Easy Run",
+               "distance": 6.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{12} Long Run - Easy Pace",
+               "distance": 12.0,
+               "description": "{12} @ Easy Pace",
+               "tags": [
+                  "Long Run"
+               ]
+            }
+         ]
+      },
+      {
+         "description": "Phase II - Week 2 (B)",
+         "workouts": [
+            {
+               "title": "{6} Easy Run",
+               "distance": 6.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{7} Interval Run - Workout C2",
+               "distance": 7.0,
+               "description": "{1.5} Warm Up\n6 x (3min I + 2min jog)\n{1.5} Cool Down\n({7})",
+               "tags": [
+                  "Speedwork"
+               ]
+            },
+            {
+               "title": "Rest or Cross-Train",
+               "tags": [
+                  "Rest",
+                  "Cross Train"
+               ]
+            },
+            {
+               "title": "{6} Easy Run",
+               "distance": 6.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{7} Threshold Run",
+               "distance": 7.0,
+               "description": "{1.5} Warm Up\n4 x ({1} @ Threshold Pace + 90s jog)\n{1.5} Cool Down\n({7})",
+               "tags": [
+                  "Speedwork"
+               ]
+            },
+            {
+               "title": "{6} Easy Run",
+               "distance": 6.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{10} Long Run - Marathon Pace",
+               "distance": 10.0,
+               "description": "{1.5} Warm Up\n{3} @ Marathon Pace\n{1} @ Easy Pace\n{3} @ Marathon Pace\n{1.5} Cool Down\n({10})",
+               "tags": [
+                  "Long Run"
+               ]
+            }
+         ]
+      },
+      {
+         "description": "Phase II - Week 3 (A)",
+         "workouts": [
+            {
+               "title": "{6} Easy Run",
+               "distance": 6.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{7} Repetition Run - Workout C4",
+               "distance": 7.0,
+               "description": "{1.5} Warm Up\n4 x (400m R + 400m jog) + 8 x (200m R + 200m jog)\n{1.5} Cool Down\n({7})",
+               "tags": [
+                  "Speedwork"
+               ]
+            },
+            {
+               "title": "Rest or Cross-Train",
+               "tags": [
+                  "Rest",
+                  "Cross Train"
+               ]
+            },
+            {
+               "title": "{6} Easy Run",
+               "distance": 6.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{8} Threshold Run",
+               "distance": 8.0,
+               "description": "{1.5} Warm Up\n5 x ({1} @ Threshold Pace + 90s jog)\n{1.5} Cool Down\n({8})",
+               "tags": [
+                  "Speedwork"
+               ]
+            },
+            {
+               "title": "{6} Easy Run",
+               "distance": 6.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{12} Long Run - Easy Pace",
+               "distance": 12.0,
+               "description": "{12} @ Easy Pace",
+               "tags": [
+                  "Long Run"
+               ]
+            }
+         ]
+      },
+      {
+         "description": "Phase II - Week 4 (B)",
+         "workouts": [
+            {
+               "title": "{6} Easy Run",
+               "distance": 6.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{8} Interval Run - Workout C3",
+               "distance": 8.0,
+               "description": "{1.5} Warm Up\n5 x (1000m I + 4min jog)\n{1.5} Cool Down\n({8})",
+               "tags": [
+                  "Speedwork"
+               ]
+            },
+            {
+               "title": "Rest or Cross-Train",
+               "tags": [
+                  "Rest",
+                  "Cross Train"
+               ]
+            },
+            {
+               "title": "{7} Easy Run",
+               "distance": 7.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{8} Threshold Run",
+               "distance": 8.0,
+               "description": "{1.5} Warm Up\n5 x ({1} @ Threshold Pace + 90s jog)\n{1.5} Cool Down\n({8})",
+               "tags": [
+                  "Speedwork"
+               ]
+            },
+            {
+               "title": "{6} Easy Run",
+               "distance": 6.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{10} Long Run - Marathon Pace",
+               "distance": 10.0,
+               "description": "{1.5} Warm Up\n{3} @ Marathon Pace\n{1} @ Easy Pace\n{3} @ Marathon Pace\n{1.5} Cool Down\n({10})",
+               "tags": [
+                  "Long Run"
+               ]
+            }
+         ]
+      },
+      {
+         "description": "Phase III - Week 1 (A)",
+         "workouts": [
+            {
+               "title": "{6} Easy Run",
+               "distance": 6.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{7} Repetition Run - Workout C5",
+               "distance": 6.0,
+               "description": "{1.5} Warm Up\n8 x (400m R + 400m jog)\n{1.5} Cool Down\n({7})",
+               "tags": [
+                  "Speedwork"
+               ]
+            },
+            {
+               "title": "Rest or Cross-Train",
+               "tags": [
+                  "Rest",
+                  "Cross Train"
+               ]
+            },
+            {
+               "title": "{6} Easy Run",
+               "distance": 6.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{7} Threshold Run",
+               "distance": 8.0,
+               "description": "{1.5} Warm Up\n4 x ({1} @ Threshold Pace + 90s jog)\n{1.5} Cool Down\n({7})",
+               "tags": [
+                  "Speedwork"
+               ]
+            },
+            {
+               "title": "{5} Easy Run",
+               "distance": 4.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{12} Long Run - Easy Pace",
+               "distance": 12.0,
+               "description": "{12} @ Easy Pace",
+               "tags": [
+                  "Long Run"
+               ]
+            }
+         ]
+      },
+      {
+         "description": "Phase III - Week 2 (B)",
+         "workouts": [
+            {
+               "title": "{6} Easy Run",
+               "distance": 6.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{7} Interval Run - Workout C5",
+               "distance": 7.0,
+               "description": "{1.5} Warm Up\n4 x (5min I + 4min jog)\n{1.5} Cool Down\n({7})",
+               "tags": [
+                  "Speedwork"
+               ]
+            },
+            {
+               "title": "Rest or Cross-Train",
+               "tags": [
+                  "Rest",
+                  "Cross Train"
+               ]
+            },
+            {
+               "title": "{7} Easy Run",
+               "distance": 7.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{6} Threshold Run",
+               "distance": 6.0,
+               "description": "{1.5} Warm Up\n{1} @ Threshold Pace + 90s jog\n{2} @ Threshold Pace + 90s jog\n{1.5} Cool Down\n({6})",
+               "tags": [
+                  "Speedwork"
+               ]
+            },
+            {
+               "title": "{6} Easy Run",
+               "distance": 6.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{10} Long Run - Marathon Pace",
+               "distance": 10.0,
+               "description": "{2} Warm Up\n{6} @ Marathon Pace\n{2} Cool Down\n({10})",
+               "tags": [
+                  "Long Run"
+               ]
+            }
+         ]
+      },
+      {
+         "description": "Phase III - Week 3 (A)",
+         "workouts": [
+            {
+               "title": "{5} Easy Run",
+               "distance": 5.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{6} Repetition Run - Workout B4",
+               "distance": 6.0,
+               "description": "{1.5} Warm Up\n6 x (400m R + 400m jog)\n{1.5} Cool Down\n({6})",
+               "tags": [
+                  "Speedwork"
+               ]
+            },
+            {
+               "title": "Rest or Cross-Train",
+               "tags": [
+                  "Rest",
+                  "Cross Train"
+               ]
+            },
+            {
+               "title": "{6} Easy Run",
+               "distance": 6.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{6} Threshold Run",
+               "distance": 6.0,
+               "description": "{1.5} Warm Up\n3 x ({1} @ Threshold Pace + 90s jog)\n{1.5} Cool Down\n({6})",
+               "tags": [
+                  "Speedwork"
+               ]
+            },
+            {
+               "title": "{6} Easy Run",
+               "distance": 6.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{8} Long Run - Easy Pace",
+               "distance": 8.0,
+               "description": "{8} @ Easy Pace",
+               "tags": [
+                  "Long Run"
+               ]
+            }
+         ]
+      },
+      {
+         "description": "Race Week!",
+         "workouts": [
+            {
+               "title": "{5} Easy Run",
+               "distance": 5.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{3} Easy Run",
+               "distance": 3.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "Rest or Cross-Train",
+               "tags": [
+                  "Rest",
+                  "Cross Train"
+               ]
+            },
+            {
+               "title": "{5} Easy Run",
+               "distance": 5.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{3} Easy Run",
+               "distance": 3.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "{3} Easy Run",
+               "distance": 3.0,
+               "tags": [
+                  "Easy Run"
+               ]
+            },
+            {
+               "title": "Half Marathon Race",
+               "distance": 13.1,
+               "tags": [
+                  "Race"
+               ]
+            }
+         ]
+      }
+   ]
+}
