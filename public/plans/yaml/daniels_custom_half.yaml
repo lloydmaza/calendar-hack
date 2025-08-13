@@ -138,8 +138,8 @@ schedule:
       - Long Run
 - description: "Phase I - Week 4 (B)"
   workouts:
-  - title: '{6} Easy Run'
-    distance: 6.0
+  - title: '{5} Easy Run'
+    distance: 5.0
     tags:
       - Easy Run
   - title: '{6} Interval Run - Workout B4'
@@ -155,8 +155,8 @@ schedule:
     tags: 
       - Rest
       - Cross Train
-  - title: '{6} Easy Run'
-    distance: 6.0
+  - title: '{5} Easy Run'
+    distance: 5.0
     tags:
       - Easy Run
   - title: '{6} Threshold Run'
@@ -200,8 +200,8 @@ schedule:
     tags: 
       - Rest
       - Cross Train
-  - title: '{6} Easy Run'
-    distance: 6.0
+  - title: '{5} Easy Run'
+    distance: 5.0
     tags:
       - Easy Run
   - title: '{6} Threshold Run'
@@ -214,8 +214,8 @@ schedule:
       ({6})
     tags: 
       - Speedwork
-  - title: '{6} Easy Run'
-    distance: 6.0
+  - title: '{5} Easy Run'
+    distance: 5.0
     tags: 
       - Easy Run
   - title: '{12} Long Run - Easy Pace'
@@ -225,8 +225,8 @@ schedule:
       - Long Run
 - description: "Phase II - Week 2 (B)"
   workouts:
-  - title: '{6} Easy Run'
-    distance: 6.0
+  - title: '{5} Easy Run'
+    distance: 5.0
     tags:
       - Easy Run
   - title: '{7} Interval Run - Workout C2'
@@ -255,8 +255,8 @@ schedule:
       ({7})
     tags: 
       - Speedwork
-  - title: '{6} Easy Run'
-    distance: 6.0
+  - title: '{5} Easy Run'
+    distance: 5.0
     tags: 
       - Easy Run
   - title: '{10} Long Run - Marathon Pace'
@@ -272,8 +272,8 @@ schedule:
       - Long Run
 - description: "Phase II - Week 3 (A)"
   workouts:
-  - title: '{6} Easy Run'
-    distance: 6.0
+  - title: '{5} Easy Run'
+    distance: 5.0
     tags:
       - Easy Run
   - title: '{7} Repetition Run - Workout C4'
@@ -289,8 +289,8 @@ schedule:
     tags: 
       - Rest
       - Cross Train
-  - title: '{6} Easy Run'
-    distance: 6.0
+  - title: '{5} Easy Run'
+    distance: 5.0
     tags:
       - Easy Run
   - title: '{8} Threshold Run'
@@ -302,8 +302,8 @@ schedule:
       ({8})
     tags: 
       - Speedwork
-  - title: '{6} Easy Run'
-    distance: 6.0
+  - title: '{5} Easy Run'
+    distance: 5.0
     tags: 
       - Easy Run
   - title: '{12} Long Run - Easy Pace'
@@ -313,8 +313,8 @@ schedule:
       - Long Run
 - description: "Phase II - Week 4 (B)"
   workouts:
-  - title: '{6} Easy Run'
-    distance: 6.0
+  - title: '{5} Easy Run'
+    distance: 5.0
     tags:
       - Easy Run
   - title: '{8} Interval Run - Workout C3'
@@ -330,8 +330,8 @@ schedule:
     tags: 
       - Rest
       - Cross Train
-  - title: '{7} Easy Run'
-    distance: 7.0
+  - title: '{6} Easy Run'
+    distance: 6.0
     tags:
       - Easy Run
   - title: '{8} Threshold Run'
@@ -343,8 +343,8 @@ schedule:
       ({8})
     tags: 
       - Speedwork
-  - title: '{6} Easy Run'
-    distance: 6.0
+  - title: '{5} Easy Run'
+    distance: 5.0
     tags: 
       - Easy Run
   - title: '{10} Long Run - Marathon Pace'
@@ -360,12 +360,12 @@ schedule:
       - Long Run
 - description: "Phase III - Week 1 (A)"
   workouts:
-  - title: '{6} Easy Run'
-    distance: 6.0
+  - title: '{5} Easy Run'
+    distance: 5.0
     tags:
       - Easy Run
   - title: '{7} Repetition Run - Workout C5'
-    distance: 6.0
+    distance: 7.0
     description: |-
       {1.5} Warm Up
       8 x (400m R + 400m jog)
@@ -381,17 +381,17 @@ schedule:
     distance: 6.0
     tags:
       - Easy Run
-  - title: '{7} Threshold Run'
+  - title: '{8} Threshold Run'
     distance: 8.0
     description: |-
       {1.5} Warm Up
-      4 x ({1} @ Threshold Pace + 90s jog)
+      5 x ({1} @ Threshold Pace + 90s jog)
       {1.5} Cool Down
-      ({7})
+      ({8})
     tags: 
       - Speedwork
   - title: '{5} Easy Run'
-    distance: 4.0
+    distance: 5.0
     tags: 
       - Easy Run
   - title: '{12} Long Run - Easy Pace'
@@ -401,8 +401,8 @@ schedule:
       - Long Run
 - description: "Phase III - Week 2 (B)"
   workouts:
-  - title: '{6} Easy Run'
-    distance: 6.0
+  - title: '{5} Easy Run'
+    distance: 5.0
     tags:
       - Easy Run
   - title: '{7} Interval Run - Workout C5'
@@ -418,22 +418,21 @@ schedule:
     tags: 
       - Rest
       - Cross Train
-  - title: '{7} Easy Run'
-    distance: 7.0
+  - title: '{5} Easy Run'
+    distance: 5.0
     tags:
       - Easy Run
-  - title: '{6} Threshold Run'
-    distance: 6.0
+  - title: '{7} Threshold Run'
+    distance: 7.0
     description: |-
       {1.5} Warm Up
-      {1} @ Threshold Pace + 90s jog
-      {2} @ Threshold Pace + 90s jog
+      4 x ({1} @ Threshold Pace + 90s jog)
       {1.5} Cool Down
-      ({6})
+      ({7})
     tags: 
       - Speedwork
-  - title: '{6} Easy Run'
-    distance: 6.0
+  - title: '{5} Easy Run'
+    distance: 5.0
     tags: 
       - Easy Run
   - title: '{10} Long Run - Marathon Pace'
@@ -464,8 +463,8 @@ schedule:
     tags: 
       - Rest
       - Cross Train
-  - title: '{6} Easy Run'
-    distance: 6.0
+  - title: '{5} Easy Run'
+    distance: 5.0
     tags:
       - Easy Run
   - title: '{6} Threshold Run'
@@ -477,8 +476,8 @@ schedule:
       ({6})
     tags: 
       - Speedwork
-  - title: '{6} Easy Run'
-    distance: 6.0
+  - title: '{5} Easy Run'
+    distance: 5.0
     tags: 
       - Easy Run
   - title: '{8} Long Run - Easy Pace'

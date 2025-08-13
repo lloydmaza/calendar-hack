@@ -181,8 +181,8 @@
          "description": "Phase I - Week 4 (B)",
          "workouts": [
             {
-               "title": "{6} Easy Run",
-               "distance": 6.0,
+               "title": "{5} Easy Run",
+               "distance": 5.0,
                "tags": [
                   "Easy Run"
                ]
@@ -203,8 +203,8 @@
                ]
             },
             {
-               "title": "{6} Easy Run",
-               "distance": 6.0,
+               "title": "{5} Easy Run",
+               "distance": 5.0,
                "tags": [
                   "Easy Run"
                ]
@@ -260,8 +260,8 @@
                ]
             },
             {
-               "title": "{6} Easy Run",
-               "distance": 6.0,
+               "title": "{5} Easy Run",
+               "distance": 5.0,
                "tags": [
                   "Easy Run"
                ]
@@ -275,8 +275,8 @@
                ]
             },
             {
-               "title": "{6} Easy Run",
-               "distance": 6.0,
+               "title": "{5} Easy Run",
+               "distance": 5.0,
                "tags": [
                   "Easy Run"
                ]
@@ -295,8 +295,8 @@
          "description": "Phase II - Week 2 (B)",
          "workouts": [
             {
-               "title": "{6} Easy Run",
-               "distance": 6.0,
+               "title": "{5} Easy Run",
+               "distance": 5.0,
                "tags": [
                   "Easy Run"
                ]
@@ -332,8 +332,8 @@
                ]
             },
             {
-               "title": "{6} Easy Run",
-               "distance": 6.0,
+               "title": "{5} Easy Run",
+               "distance": 5.0,
                "tags": [
                   "Easy Run"
                ]
@@ -352,8 +352,8 @@
          "description": "Phase II - Week 3 (A)",
          "workouts": [
             {
-               "title": "{6} Easy Run",
-               "distance": 6.0,
+               "title": "{5} Easy Run",
+               "distance": 5.0,
                "tags": [
                   "Easy Run"
                ]
@@ -374,8 +374,8 @@
                ]
             },
             {
-               "title": "{6} Easy Run",
-               "distance": 6.0,
+               "title": "{5} Easy Run",
+               "distance": 5.0,
                "tags": [
                   "Easy Run"
                ]
@@ -389,8 +389,8 @@
                ]
             },
             {
-               "title": "{6} Easy Run",
-               "distance": 6.0,
+               "title": "{5} Easy Run",
+               "distance": 5.0,
                "tags": [
                   "Easy Run"
                ]
@@ -409,8 +409,8 @@
          "description": "Phase II - Week 4 (B)",
          "workouts": [
             {
-               "title": "{6} Easy Run",
-               "distance": 6.0,
+               "title": "{5} Easy Run",
+               "distance": 5.0,
                "tags": [
                   "Easy Run"
                ]
@@ -431,8 +431,8 @@
                ]
             },
             {
-               "title": "{7} Easy Run",
-               "distance": 7.0,
+               "title": "{6} Easy Run",
+               "distance": 6.0,
                "tags": [
                   "Easy Run"
                ]
@@ -446,8 +446,8 @@
                ]
             },
             {
-               "title": "{6} Easy Run",
-               "distance": 6.0,
+               "title": "{5} Easy Run",
+               "distance": 5.0,
                "tags": [
                   "Easy Run"
                ]
@@ -466,15 +466,15 @@
          "description": "Phase III - Week 1 (A)",
          "workouts": [
             {
-               "title": "{6} Easy Run",
-               "distance": 6.0,
+               "title": "{5} Easy Run",
+               "distance": 5.0,
                "tags": [
                   "Easy Run"
                ]
             },
             {
                "title": "{7} Repetition Run - Workout C5",
-               "distance": 6.0,
+               "distance": 7.0,
                "description": "{1.5} Warm Up\n8 x (400m R + 400m jog)\n{1.5} Cool Down\n({7})",
                "tags": [
                   "Speedwork"
@@ -495,16 +495,16 @@
                ]
             },
             {
-               "title": "{7} Threshold Run",
+               "title": "{8} Threshold Run",
                "distance": 8.0,
-               "description": "{1.5} Warm Up\n4 x ({1} @ Threshold Pace + 90s jog)\n{1.5} Cool Down\n({7})",
+               "description": "{1.5} Warm Up\n5 x ({1} @ Threshold Pace + 90s jog)\n{1.5} Cool Down\n({8})",
                "tags": [
                   "Speedwork"
                ]
             },
             {
                "title": "{5} Easy Run",
-               "distance": 4.0,
+               "distance": 5.0,
                "tags": [
                   "Easy Run"
                ]
@@ -523,8 +523,8 @@
          "description": "Phase III - Week 2 (B)",
          "workouts": [
             {
-               "title": "{6} Easy Run",
-               "distance": 6.0,
+               "title": "{5} Easy Run",
+               "distance": 5.0,
                "tags": [
                   "Easy Run"
                ]
@@ -545,23 +545,23 @@
                ]
             },
             {
-               "title": "{7} Easy Run",
-               "distance": 7.0,
+               "title": "{5} Easy Run",
+               "distance": 5.0,
                "tags": [
                   "Easy Run"
                ]
             },
             {
-               "title": "{6} Threshold Run",
-               "distance": 6.0,
-               "description": "{1.5} Warm Up\n{1} @ Threshold Pace + 90s jog\n{2} @ Threshold Pace + 90s jog\n{1.5} Cool Down\n({6})",
+               "title": "{7} Threshold Run",
+               "distance": 7.0,
+               "description": "{1.5} Warm Up\n4 x ({1} @ Threshold Pace + 90s jog)\n{1.5} Cool Down\n({7})",
                "tags": [
                   "Speedwork"
                ]
             },
             {
-               "title": "{6} Easy Run",
-               "distance": 6.0,
+               "title": "{5} Easy Run",
+               "distance": 5.0,
                "tags": [
                   "Easy Run"
                ]
@@ -602,8 +602,8 @@
                ]
             },
             {
-               "title": "{6} Easy Run",
-               "distance": 6.0,
+               "title": "{5} Easy Run",
+               "distance": 5.0,
                "tags": [
                   "Easy Run"
                ]
@@ -617,8 +617,8 @@
                ]
             },
             {
-               "title": "{6} Easy Run",
-               "distance": 6.0,
+               "title": "{5} Easy Run",
+               "distance": 5.0,
                "tags": [
                   "Easy Run"
                ]
